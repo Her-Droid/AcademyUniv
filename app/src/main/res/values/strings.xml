@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">EduTech</string>
+    <string name="title_activity_detail_course">Detail Course</string>
+
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="dateline">Dateline</string>
+    <string name="description_module">Deskripsi Modul</string>
+    <string name="example">Example</string>
+    <string name="start_learn">Mulai Belajar</string>
+    <string name="list_module">Daftar Modul</string>
+    <string name="home">Expert Course</string>
+    <string name="bookmark">Basic Course</string>
+    <string name="menu_bookmark">bookmark</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="last_seen">Terakhir dilihat</string>
+    <string name="message_undo">Batalkan menghapus item sebelumnya?</string>
+    <string name="message_ok">OK</string>
+    <string name="deadline_date">Deadline %s</string>
+    <string name="share_text">Segera daftar kelas %s di EduTech.com</string>
+
+    <string name="copyright"><![CDATA[Created By: Russi & Roby]]></string>
+    <string name="user">DEVELOPER</string>
+    <string name="setting">Setting</string>
+
+    <string name="daily_reminder">Alarm</string>
+    <string name="alarm">Alarm Sudah di Set</string>
+    <string name="alarm_cancel">Alarm Sudah Cancel</string>
+    <string name="alarm_setting">ALARM SETTING</string>
+    <string name="alarm_message">Semangat Belajarnyaa!!</string>
+    <string name="name">Name</string>
+    <string name="profession">profesi</string>
+    <string name="email">Email</string>
+    <string name="riwayat_kerja">Riwayat Kerja</string>
+    <string name="work">Android Developer</string>
+    <string name="office">office</string>
+    <string name="profile">Profile Detail</string>
+    <string name="instagram">instagram</string>
+    <string name="contact">Contact</string>
+    <string name="trophy">Pencapaian</string>
+    <string name="detail_developer">Detail Developer</string>
+    <string name="empty_user">EMPTY_USER</string>
+</resources>
